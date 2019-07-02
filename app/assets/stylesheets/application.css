@@ -1,0 +1,30 @@
+.firework-container {
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-image: url('https://media.giphy.com/media/8zYQ9CGhnpZVS/giphy.gif') 
+}
+
+.white {
+    background-image: url('https://media.giphy.com/media/vuXIybFbgwoWQ/giphy.gif')
+}
+
+.red {
+  background-image: url('https://giphy.com/gifs/fireworks-firework-fire-works-AwcmOV28QPnck')
+}
+
+.blue {
+  background-image: url('https://media.giphy.com/media/IyEOCP4KXYSLS/giphy.gif')
+}
+
+.yellow {
+  background-image: url('https://media1.giphy.com/media/8v31hoKEq1efe/200.webp?cid=790b76115d1b71434b4d7432550a1fb7&rid=200.webp')
+}
+
+.purple {
+  background-image: url('https://media0.giphy.com/media/PxUh1x6Y0zdPa/200w.webp?cid=790b76115d1b72504f356f4745dc3d0a&rid=200w.webp')
+}
+
+.green {
+  background-image: url('https://img1.picmix.com/output/stamp/normal/1/3/4/7/267431_b9680.gif')
+}
